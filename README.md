@@ -1,4 +1,4 @@
-# British-Airways-Reviews-Analysis
+# British Airways Reviews - Analysis
 Assessing how British Airways customers, March 2016 - October 2023, review the airline's services. The reviews have been grouped with respect to key airline factors such as:
 - Traveler type
 - Services rendered
